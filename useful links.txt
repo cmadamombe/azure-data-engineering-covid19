@@ -1,0 +1,63 @@
+ECDC Website for Covid-19 Data - https://www.ecdc.europa.eu/en/covid-19/data
+
+Euro Stat Website for Population Data - https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00010.tsv.gz
+
+Lecture: Azure Storage Solutions
+
+
+Introduction to Azure Storage services - https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
+
+Azure SQL Database - https://docs.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview
+
+Azure Synapse Analytics - https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is
+
+Azure Cosmos DB - https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
+
+Azure Data Lake Storage Gen2 - https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
+
+====================================================================================================================================================================================
+
+Section: Environment Set-up
+
+
+Lecture: Creating Azure Free Account
+
+
+Free Account - https://azure.microsoft.com/en-gb/free/
+
+Students Free Account - https://azure.microsoft.com/en-gb/free/students/
+
+
+
+Lecture: Azure Portal Overview
+
+
+Azure Portal - https://azure.microsoft.com/en-gb/free/students/
+
+
+
+Lecture: Creating Azure Data Factory
+
+
+https://docs.microsoft.com/en-gb/azure/data-factory/quickstart-create-data-factory-portal
+
+
+
+Lecture: Creating Azure Storage Account
+
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal
+
+
+
+Lecture: Create Azure Data Lake Gen2
+
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/create-data-lake-storage-account
+
+
+
+Lecture: Creating Azure SQL Database
+
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?tabs=azure-portal
